@@ -82,8 +82,9 @@ p {
     border-radius: .5rem;
     background-color: transparent;
     border: 1px solid #FFFFFF;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+
     font-size: 1.4rem;
     font-weight: 300;
     padding: 0.75rem 1.2rem;
@@ -107,6 +108,13 @@ p {
     font-weight: 300;
     font-size: 1.4rem;
     cursor: pointer;
+		margin-top: 10px;
+		margin-right: 10px;
+		margin-left: 8px;
+		margin-bottom: 2px;
+}
+.tm-btn-subscribe-b{
+	margin-right: 20px;
 }
 
 .tm-btn-subscribe:hover {
