@@ -9,9 +9,9 @@
     font-style: normal;
 }
 /* CSS reset */
-body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td { 
-	margin:0;
-	padding:0;
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td {
+	margin:10px;
+	padding:1px;
 }
 html,body {
 	margin:0;
@@ -21,7 +21,7 @@ table {
 	border-collapse:collapse;
 	border-spacing:0;
 }
-fieldset,img { 
+fieldset,img {
 	border:0;
 }
 input{
@@ -67,7 +67,7 @@ a{
 	text-decoration: none;
 }
 .container{
-	position: relative;	
+	position: relative;
 }
 .clr{
 	clear: both;
