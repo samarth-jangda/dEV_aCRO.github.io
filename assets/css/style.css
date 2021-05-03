@@ -304,6 +304,7 @@ p {
   visibility: visible;
 }
 
+
 .navbar .dropdown .dropdown ul {
   top: 0;
   left: calc(100% - 30px);
@@ -435,7 +436,7 @@ p {
  position: fixed; right: 0; bottom: 0;
  min-width: 100%; min-height: 100%;
  width: auto; height: auto; z-index: -100;
- background: url("../img/myvide.mp4") no-repeat;
+ background: url("../img/myvideo.mp4") no-repeat;
  background-size: cover;
  margin: 0 auto;
 }
@@ -551,7 +552,7 @@ p {
 #about {
   width: 100%;
   height: auto;
-  background: url("../img/portfolio.mp4");
+  background: url("../img/wp7038764.jpg");
   padding-top: 120px;
 }
 
@@ -639,6 +640,7 @@ p {
 #portfolio {
   position: relative;
   padding-bottom: 50px;
+  background: url("../img/join_dots_1.jpg");
 }
 
 #portfolio #portfolio-flters {
@@ -849,6 +851,7 @@ p {
 #contact {
   height: auto;
   width: 100%;
+  background: url("../img/join_dots_1.jpg");
 }
 
 .contact-details {
