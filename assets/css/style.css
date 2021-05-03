@@ -552,7 +552,7 @@ p {
 #about {
   width: 100%;
   height: auto;
-  background: url("/img/wp7038764.jpg");
+  background: url("../img/wp7038764.jpg");
   padding-top: 120px;
 }
 
@@ -640,7 +640,7 @@ p {
 #portfolio {
   position: relative;
   padding-bottom: 50px;
-  background: url("/img/join_dots_1.jpg");
+  background: url("../img/join_dots_1.jpg");
 }
 
 #portfolio #portfolio-flters {
@@ -851,7 +851,7 @@ p {
 #contact {
   height: auto;
   width: 100%;
-  background: url("/img/join_dots_1.jpg");
+  background: url("../img/join_dots_1.jpg");
 }
 
 .contact-details {
